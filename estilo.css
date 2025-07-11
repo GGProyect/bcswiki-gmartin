@@ -1,0 +1,132 @@
+h1{
+    background-color: black;
+    color: rgb(255, 0, 0);
+    border-radius: 50px 50px;
+    border: rgb(255, 0, 0) 10px solid;
+    border-color: red rgb(194, 181, 181);
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 3px white;
+    padding: 35px;
+    margin: 0px
+
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    padding: 20px;
+    margin: 0px
+    
+}
+h5{
+    margin: 15px;
+    font-size: 25px;
+}
+#netflix{
+    color: red;
+    /* Estoy usando rojo profe, para quitarle el morado al link y evitar romper el esquema de colores, sin quitar el subrayado para marcar todavia que es un link!*/
+    }
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: "Playfair Display", Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    
+    
+}
+.textos{
+    border-radius: 15px 15px;
+    border: rgb(255, 0, 0) 5px solid;
+    padding: 10px;
+    color: white;
+}
+.rojo{
+    background-color: rgb(255, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    border-radius: 15px 15px;
+    border: rgb(255, 0, 0) 10px solid;
+}
+.intro{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#listaPersonajes{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+}
+
+article{
+    padding: 3rem;
+}
+.imagenes{
+    margin: 10px;
+    border-radius: 50px 50px;
+    border: rgb(255, 0, 0) 5px solid;
+}
+#foto1{
+    width: 45%;
+}
+#foto2{
+    width: 45%;
+}
+#foto3{
+    width: 45%;
+}
+#foto4{
+    width: 45%;
+}
+#sinopsis{
+    float: left;
+    width: 50%;
+    margin-left: 50px;
+}
+aside{
+float: left;
+margin-left: 70px;
+width: 41%;
+border-radius: 15px 15px;
+border: rgb(255, 0, 0) 10px solid;
+}
+li{
+    color: red;
+}
+.pejotas{
+    color: red;
+}
+#curiosidades{
+    float: right;
+    width: 45%;
+    margin-right: 80px;
+}
+.titulos {
+    font-size: 35px;    
+    font-weight: bold;      
+    color: white;           
+    margin-bottom: 10px;    
+    font-family: sans-serif;
+    margin-left: 25px;
+}
+.videito{
+    margin-left: 185px;
+    margin-bottom: 25px;
+}
+.trailer{
+    margin-left: 105px;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    font-family: "Playfair Display", Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+}
+.saul{
+    margin-left: 500px;
+}
