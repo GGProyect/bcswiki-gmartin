@@ -27,13 +27,13 @@
     background: red;
     color: white;
     border: none;
-    border-radius: 8px;
+    border-radius: 12px;
     padding: 10px 20px;
     font-weight: bold;
     cursor: pointer;
 }
 .form{
 
-    
+
     float: left;
 }
