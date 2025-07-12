@@ -127,5 +127,8 @@ li{
     font-weight: 650;
     font-style: normal;
 }
-
-
+.cajapedorra {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px; /* Probando soluciones de foro como un salame */
+}

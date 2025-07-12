@@ -1,0 +1,7 @@
+.descripcion{
+     border-radius: 15px 15px;
+    border: rgb(255, 0, 0) 5px solid;
+    padding: 10px;
+    color: black;           
+    background-color: white;
+}
