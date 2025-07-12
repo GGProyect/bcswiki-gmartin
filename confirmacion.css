@@ -1,0 +1,31 @@
+
+        body {
+            background: #000;
+            color: #fff;
+            font-family: "Playfair Display", Arial, Helvetica, sans-serif;
+            display: flex;
+            align-items: center;
+            
+        }
+        .confirm-box {
+            border: 5px solid red;
+            border-radius: 30px;
+            background: #111;
+            padding: 40px 60px;
+            text-align: center;
+            max-width: 500px;
+            margin: 40px auto;
+        }
+        .icono-trabajando {
+            width: 100px;
+            height: 100px;
+            margin: 30px auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .mensaje-confirmacion {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }

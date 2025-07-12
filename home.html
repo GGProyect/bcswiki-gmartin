@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="iconito" href="favicon.png"/>
     <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="personajes.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
@@ -32,7 +33,7 @@
         </section>
         <aside>
             <nav>
-                <h5 class="titulos">Listado de Personajes</h5>
+                <h5 class="descrip">Listado de Personajes</h5>
                 <ul>
                     <li><a href="/saul/saul.html" target="_blank" class="pejotas"><abbr title="Saul Goodman">Jimmy McGill</abbr></a></li>
                     <li><a href="https://breakingbad.fandom.com/wiki/Chuck_McGill" target="_blank" class="pejotas">Chuck McGill</a></li>
@@ -97,6 +98,39 @@
                 </ul>
             </nav>
         </aside>
+            <section class="form">
+  <div class="formulario">
+    <form action="/Formulario/confirm.html">
+      <p>
+        <label>Nombre:
+          <input type="text" name="nombre" required>
+        </label>
+      </p>
+
+      <p>
+        <label>Apellido:
+          <input type="text" name="apellido" required>
+        </label>
+      </p>
+
+      <p>
+        <label>Correo electrónico:
+          <input type="email" name="correo" required>
+        </label>
+      </p>
+
+      <p>
+        <label>Mensaje:   <!-- y si pipo si no para que el formulario-->
+          <textarea name="mensaje" required></textarea>
+        </label>
+      </p>
+
+      <p>
+        <button type="submit">Enviar</button>
+      </p>
+    </form>
+  </div>
+</section>
     </main>
 
     <footer>
