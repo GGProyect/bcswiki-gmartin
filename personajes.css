@@ -16,7 +16,7 @@
     box-shadow: 0 0 20px #0006;
 }
 .formulario input,
-.formulario textarea {
+.formulario textarea /*Tuve que pedir ayuda, aleluya que funciona*/ {
     width: 100%;
     margin-bottom: 12px;
     border-radius: 8px;
@@ -33,6 +33,7 @@
     cursor: pointer;
 }
 .form{
+
     
     float: left;
 }
